@@ -3,7 +3,7 @@ body{
 }
 #header{
 	text-align: center;
-	border-bottom: double #999;
+	border-bottom: double #555;
 }
 h1{
 	color:white;
@@ -39,8 +39,8 @@ a:hover{
 	float:right;
 }
 #web_dev{
-	border-bottom: double #999;
+	border-bottom: double #555;
 }
 #photography{
-	border-bottom: double #999;
+	border-bottom: double #555;
 }
