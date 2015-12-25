@@ -13,9 +13,22 @@ body{
 h1{
 	color:white;
 	font-family: arial;
+	margin:20px 0 0 0;
 }
 p{
 	color:#999;
+}
+#header p{
+	width:75%;
+	margin:auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#em p{
+	width:75%;
+	margin:auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 .em{
 	font-style: italic;
