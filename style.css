@@ -1,5 +1,7 @@
 body{
 	background-color: black;
+	border-top: 10px solid #555;
+	margin:0;
 }
 #box-container {
   width:70%;
@@ -31,6 +33,7 @@ p{
 	margin-bottom: 20px;
 	font-style: italic;
 	font-size: 20px;
+	text-align: center;
 }
 
 	
@@ -55,9 +58,13 @@ a:hover{
 }
 #web_dev{
 	border-bottom: double #555;
+	padding:20px 10px;
+	margin:auto;
 }
 #photography{
 	border-bottom: double #555;
+	padding:10px;
+	padding-bottom: 20px;
 }
 .images{
 	height:300px;
