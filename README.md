@@ -1,3 +1,3 @@
-# replica_jonchretien
-trying to replicate www.jonchretien.com for 1360x768 resolution
+# replica_jonchretin
+replicating www.jonchretien.com
 //just trying to learn github
